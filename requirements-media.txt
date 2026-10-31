@@ -1,0 +1,4 @@
+# Optional: regenerate report/video artifacts. Not needed to run the backend.
+Pillow==12.3.0
+reportlab==4.4.9
+# ffmpeg must also be installed as an external command for scripts.render_demo.

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+data/
+*.db
+*.db-shm
+*.db-wal
+.env
+demo-live.json
